@@ -1,7 +1,7 @@
 
 # Chat Wars: The API
 
-Within the world of Chat Wars, you can find an API. This API is unlike any other, because of the simple that that you cannot simply just make an HTTP request to do things with it. The API is run on a system known as RabbitMQ, but the members of the Developer's Castle refer to it as RabshitMQ.
+Within the world of Chat Wars, you can find an API. This API is unlike any other, because of the simple fact that that you cannot simply just make an HTTP request to do things with it. The API is run on a system known as RabbitMQ, but the members of the Developer's Castle refer to it as RabshitMQ.
 There are two version for the API. one is for [@chtwrsbot (EU)](http://t.me/chtwrsbot), the other is for [@ChatWarsBot (CW3)](http://t.me/ChatWarsBot).
 ## Version History
 ### Version 0.3
