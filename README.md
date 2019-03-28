@@ -1,6 +1,9 @@
 
 # Chat Wars: The API
 
+***This documentation is not completely up to date, and it is recommended that you visit [The official documentation here](https://chatwars.github.io/chatwars-api-docs/).***
+You can still use it for learning the very basics, but beyond authentication, please use the [official documentation](https://chatwars.github.io/chatwars-api-docs/)
+
 Within the world of Chat Wars, you can find an API. This API is unlike any other, because of the simple fact that that you cannot simply just make an HTTP request to do things with it. The API is run on a system known as RabbitMQ, but the members of the Developer's Castle refer to it as RabshitMQ.
 There are two version for the API. one is for [@chtwrsbot (EU)](http://t.me/chtwrsbot), the other is for [@ChatWarsBot (CW3)](http://t.me/ChatWarsBot).
 ## Version History
